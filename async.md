@@ -39,9 +39,3 @@
 
 promise를 이용하면 많은 개선을 할수 있지만 콜백되는 값을 promise로 감싸줘야 하는 번거로움이 있다. 이런 문제를 해결하기 위해서는
 
-
-
-
-
-https://blog.patricktriest.com/what-is-async-await-why-should-you-care/?utm_source=hashnode.com
-https://hyunseob.github.io/2015/08/09/async-javascript/
